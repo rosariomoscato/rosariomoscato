@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **becaming pure energy**
 
-- 📫 How to reach me **rosariomoscato.github.io**
+- 📫 How to reach me > **[web](https://rosariomoscato.github.io)**
 
 - ⚡ Fun fact **I love programmimg languages but hate human blablabla...**
 
