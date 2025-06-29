@@ -1,4 +1,4 @@
-[MasterHead](./github-header-image.png)
+![MasterHead](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ros</h1>
 <h3 align="center">A passionate AI Scientist, Developer, Evangelist and Heticist from Italy</h3>
