@@ -11,6 +11,6 @@
 - 🔭 I’m currently working on **taking a rest**
 - 🌱 I’m currently learning **to be patient**
 - 🤝 I’m looking for help with **becaming pure energy**
-- 📫 How to reach me > **[web](https://rosariomoscato.github.io)**
+- 📫 How to reach me > **[web](https://rosmoscato.xyz)**
 - ⚡ Fun fact **I love programmimg languages but hate human blablabla...**
 
