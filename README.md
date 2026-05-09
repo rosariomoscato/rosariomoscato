@@ -14,5 +14,3 @@
 - 📫 How to reach me > **[web](https://rosariomoscato.github.io)**
 - ⚡ Fun fact **I love programmimg languages but hate human blablabla...**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosariomoscato&show_icons=true&locale=en&layout=compact" alt="rosariomoscato" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosariomoscato&show_icons=true&locale=en" alt="rosariomoscato" /></p>
