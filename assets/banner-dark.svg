@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rosario Moscato</title>
+  <desc id="desc">AI Engineer, Author and Speaker. Editorial banner in charcoal, ivory and soft blue.</desc>
+  <rect width="1200" height="300" rx="12" fill="#1B1E21"/>
+  <rect x="1" y="1" width="1198" height="298" rx="11" fill="none" stroke="#3C4449"/>
+  <path d="M48 48H1152M48 252H1152" fill="none" stroke="#3C4449"/>
+  <path d="M48 48H116M1084 252H1152" fill="none" stroke="#A7C1D1" stroke-width="3"/>
+  <g fill="none" stroke="#A7C1D1" opacity="0.12">
+    <circle cx="1080" cy="150" r="68"/>
+    <circle cx="1080" cy="150" r="92"/>
+    <path d="M976 150H1184M1080 46V254"/>
+    <circle cx="120" cy="150" r="36"/>
+    <circle cx="120" cy="150" r="60"/>
+  </g>
+  <text x="600" y="96" fill="#A7C1D1" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">ARTIFICIAL INTELLIGENCE · HUMAN PERSPECTIVE</text>
+  <text x="600" y="165" fill="#F4F0E7" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="400" letter-spacing="-1.5" text-anchor="middle">Rosario Moscato</text>
+  <text x="600" y="204" fill="#B5B7B1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2" text-anchor="middle">AI ENGINEER / AUTHOR / SPEAKER</text>
+  <circle cx="600" cy="252" r="4" fill="#A7C1D1"/>
+</svg>

@@ -1,6 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:1B1E21,60:23272B,100:3C4449&text=Rosario%20Moscato&desc=AI%20Engineer%20%C2%B7%20Author%20%C2%B7%20Speaker&fontColor=F4F0E7&fontFamily=Georgia&fontSize=42&fontAlignY=32&descAlignY=54" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:F7F4EE,60:EEEAE2,100:D8D1C5&text=Rosario%20Moscato&desc=AI%20Engineer%20%C2%B7%20Author%20%C2%B7%20Speaker&fontColor=232B30&fontFamily=Georgia&fontSize=42&fontAlignY=32&descAlignY=54" width="100%" alt="Rosario Moscato" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-light.svg" width="100%" alt="Rosario Moscato — AI Engineer, Author &amp; Speaker" />
 </picture>
 
 <div align="center">
