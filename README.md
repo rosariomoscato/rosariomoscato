@@ -1,82 +1,28 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1B1E21,60:23272B,100:3C4449&text=Rosario%20Moscato&desc=AI%20Engineer%20%C2%B7%20Author%20%C2%B7%20Speaker&fontColor=F4F0E7&fontFamily=Georgia&fontSize=42&fontAlignY=32&descAlignY=54" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F7F4EE,60:EEEAE2,100:D8D1C5&text=Rosario%20Moscato&desc=AI%20Engineer%20%C2%B7%20Author%20%C2%B7%20Speaker&fontColor=232B30&fontFamily=Georgia&fontSize=42&fontAlignY=32&descAlignY=54" width="100%" alt="Rosario Moscato" />
+</picture>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,60:0D1117,100:00FF9C&text=Rosario%20Moscato&desc=AI%20Engineer%20%C2%B7%20Author%20%C2%B7%20Speaker&fontColor=00FF9C&fontFamily=Courier%20New&fontSize=42&animation=fadeIn&fontAlignY=32&descAlignY=54" width="100%" alt="Rosario Moscato" />
-
-<a href="https://rosmoscato.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Rosario+Moscato+|+AI+Engineer;$+cat+mission.txt;Building+AI+agents+that+think,;plan+and+code+autonomously." alt="Typing SVG" />
-</a>
-
-[![Free Consultancy](https://img.shields.io/badge/FREE_CONSULTANCY-book_a_call-00FF9C?style=for-the-badge&logo=googlecalendar&logoColor=0D1117)](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2mV1d0v-FT5lH8FSASCBYvEZnAc9ECuHUd5sQ/?gv=true)
-[![TEDx](https://img.shields.io/badge/Speaker-TEDx_NTUA-0D1117?style=for-the-badge&labelColor=161B22)](https://www.youtube.com/watch?v=2T8aoCWZ4CE)
-[![Author](https://img.shields.io/badge/Author-5_AI_books-0D1117?style=for-the-badge&labelColor=161B22)](https://www.amazon.it/stores/author/B0CSBQQH5S/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1400&color=A7C1D1&background=00000000&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+think,;plan+and+develop+autonomously." />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1400&color=315B70&background=00000000&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+think,;plan+and+develop+autonomously." alt="Building AI agents that think, plan and develop autonomously" />
+</picture>
 
 </div>
 
 ---
 
-## `> about`
+AI engineer specialized in **autonomous systems** and **agentic coding**. I build AI agents that go beyond chat — systems that plan multi-step tasks, use tools, run code and correct themselves when something goes wrong.
 
-```yaml
-# ~/.config/rosario/identity.yaml
-identity:
-  name:     Rosario Moscato
-  role:     AI Engineer · Author · Speaker
-  location: Italy
-  website:  rosmoscato.xyz
+My work ranges from agentic architectures in production to open-source tools that help other developers build them faster: frameworks for agentic coding, automation pipelines and autonomous development workflows.
 
-mission: >-
-  Building AI agents that go beyond chat — systems that plan
-  multi-step tasks, use tools, run code and fix themselves
-  when something goes wrong.
+Beyond building products, I'm active as a **trainer** and **speaker** at events and universities, and I write **technical books** on Artificial Intelligence published by international publishers.
 
-focus:
-  - autonomous systems & agentic coding in production
-  - frameworks, automation pipelines & autonomous dev workflows
-  - open-source tooling for AI engineers
-
-side_quests:
-  - AI ethics & neurobioethics
-  - teaching & speaking @ universities and events
-  - writing technical books on AI
-```
+I also work on **AI ethics** and **neurobioethics**, exploring the implications that autonomous systems and cognitive technologies have on human beings and society.
 
 ---
-
-## `> stack`
-
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,pytorch,tensorflow,githubactions,docker,git,linux,vscode&theme=dark" alt="Skills" /></a>
-
-</div>
-
----
-
-## `> lights-out`
-
-**LIGHTS-OUT — the lights-out factory of software**
-
-Cooperating AI agents that design, review and ship complete applications autonomously.
-Human intervention shrinks to a conversation.
-
-```text
-start   > intelligent design from a natural-language conversation
-review  > quality & security gates (OWASP Top 10)
-deploy  > cloud release with data migration & CI/CD
-mcp     > native MCP server — apps ready to talk to other AIs
-symbiosis > works with Cronisto, my AI-native planning companion
-```
-
-<div align="center">
-
-[![Read the article](https://img.shields.io/badge/READ_THE_ARTICLE-La_fabbrica_al_buio_del_software-00FF9C?style=for-the-badge&labelColor=0D1117)](https://blog.rosmoscato.xyz/la-fabbrica-al-buio-del-software/)
-[![Cronisto](https://img.shields.io/badge/CRONISTO-cronisto.com-0D1117?style=for-the-badge&labelColor=161B22)](https://www.cronisto.com/)
-
-</div>
-
----
-
-## `> talks`
 
 <div align="center">
 
@@ -91,9 +37,49 @@ My TEDx talk on AI ethics and the choices that will shape our future.
 
 ---
 
-## `> books`
+<div align="center"><b>LIGHTS-OUT — the Software Factory</b></div>
 
-Technical books on AI published by international publishers — and a couple of detours into near-future fiction.
+The method for designing, verifying and shipping software with cooperating AI agents.
+From conversation to software, under human direction.
+
+```text
+01 / DESIGN   start   > intelligent design from a natural-language conversation
+02 / VERIFY   review  > quality & security gates — OWASP Top 10
+03 / SHIP     deploy  > cloud release with data migration & CI/CD
+```
+
+The method runs on two products:
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://cronisto.com/">
+        <img src="https://rosmoscato.xyz/assets/cronisto-gantt.png" width="380" alt="Cronisto — tasks, timeline and project costs" />
+      </a>
+      <br />
+      <sub><b>PROJECT MANAGEMENT</b></sub>
+      <br />
+      <b>Cronisto — define what to build.</b>
+      <br />
+      <sub>From brief to approved spec: requirements, Gantt, tasks, human or AI resources and costs. Offer documents and prompts for any intelligent agent.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://droidsembly.com/">
+        <img src="https://rosmoscato.xyz/assets/droidsembly-cover.jpg" width="380" alt="Droidsembly — your AI team, your direction" />
+      </a>
+      <br />
+      <sub><b>SOFTWARE IMPLEMENTATION</b></sub>
+      <br />
+      <b>Droidsembly — turn the plan into software.</b>
+      <br />
+      <sub>A virtual factory that produces real software. Coordinate coding agents, track activity and reviews, and choose how much to automate — under your direction.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center"><b>Ideas worth reading.</b> AI, software development and possible futures.</div>
 
 <table>
   <tr>
@@ -134,43 +120,3 @@ Technical books on AI published by international publishers — and a couple of 
     </td>
   </tr>
 </table>
-
----
-
-## `> stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rosariomoscato&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=rosariomoscato&hide_border=true&background=0D1117&border=30363D&ring=00FF9C&fire=FF7B72&currStreakLabel=00FF9C&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" alt="GitHub streak" />
-
-<img src="https://ghchart.rshah.org/00FF9C/rosariomoscato" width="95%" alt="Contribution chart" />
-
-</div>
-
----
-
-## `> contact`
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-rosmoscato.xyz-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C)](https://rosmoscato.xyz)
-[![Blog](https://img.shields.io/badge/Blog-blog.rosmoscato.xyz-0D1117?style=for-the-badge&logo=rss&logoColor=00FF9C)](https://blog.rosmoscato.xyz/)
-[![Email](https://img.shields.io/badge/Mail-ros.moscato@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:ros.moscato@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rosariomoscato-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/rosariomoscato/)
-[![Amazon](https://img.shields.io/badge/Amazon_Author-rosariomoscato-0D1117?style=for-the-badge&logo=amazon&logoColor=00FF9C)](https://www.amazon.it/stores/author/B0CSBQQH5S/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab)
-[![Consultancy](https://img.shields.io/badge/Book_a_free_consultancy-GO-00FF9C?style=for-the-badge&logo=googlecalendar&logoColor=0D1117)](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2mV1d0v-FT5lH8FSASCBYvEZnAc9ECuHUd5sQ/?gv=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF9C,40:0D1117,100:0D1117&section=footer" width="100%" alt="footer" />
-
-[![](https://komarev.com/ghpvc/?username=rosariomoscato&color=00FF9C&style=flat-square&label=visitors)](https://github.com/rosariomoscato)
-
-<sub>© 2026 Rosario Moscato — handcrafted by a human, upgraded by agents.</sub>
-
-</div>
