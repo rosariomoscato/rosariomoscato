@@ -4,17 +4,6 @@
   <img src="./assets/banner-light.svg" width="100%" alt="Rosario Moscato — AI Engineer, Author &amp; Speaker" />
 </picture>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1400&color=A7C1D1&background=00000000&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+think,;plan+and+develop+autonomously." />
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1400&color=315B70&background=00000000&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+think,;plan+and+develop+autonomously." alt="Building AI agents that think, plan and develop autonomously" />
-</picture>
-
-</div>
-
----
-
 AI engineer specialized in **autonomous systems** and **agentic coding**. I build AI agents that go beyond chat — systems that plan multi-step tasks, use tools, run code and correct themselves when something goes wrong.
 
 My work ranges from agentic architectures in production to open-source tools that help other developers build them faster: frameworks for agentic coding, automation pipelines and autonomous development workflows.
